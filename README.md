@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-este es un repositorio de ejemplo
+este es un ejemplo de como crear un repositorio y como clonarlo desde github
